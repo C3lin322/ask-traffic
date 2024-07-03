@@ -25,4 +25,4 @@ def traffic_thailand():
     return(render_template("traffic_thailand.html",r=r.last))
 
 if __name__ == "__main__":
-    app.run() ⁠
+    app.run()
